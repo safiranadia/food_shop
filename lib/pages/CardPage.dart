@@ -53,7 +53,7 @@ class Cardpage extends StatelessWidget{
                         Container(
                           alignment: Alignment.center,
                           child: Image.asset(
-                            'images/burger.jpeg',
+                            'images/burger2.jpg',
                             height: 80,
                             width: 150,
                             ),
@@ -132,7 +132,7 @@ class Cardpage extends StatelessWidget{
                         Container(
                           alignment: Alignment.center,
                           child: Image.asset(
-                            'images/mixue.jpeg',
+                            'images/asset2.jpg',
                             height: 80,
                             width: 150,
                             ),
@@ -147,7 +147,7 @@ class Cardpage extends StatelessWidget{
                                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                                 children: [
                                   Text(
-                                    'mixue',
+                                    'cocacola',
                                     style: TextStyle(
                                       fontSize: 20,
                                       fontWeight: FontWeight.bold
@@ -211,7 +211,7 @@ class Cardpage extends StatelessWidget{
                         Container(
                           alignment: Alignment.center,
                           child: Image.asset(
-                            'images/burger.jpeg',
+                            'images/burger2.jpg',
                             height: 80,
                             width: 150,
                             ),

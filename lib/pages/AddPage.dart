@@ -91,7 +91,7 @@ class Addpage extends StatelessWidget {
                               Container(
                           alignment: Alignment.center,
                           child: Image.asset(
-                            'images/burger.jpeg',
+                            'images/burger2.jpg',
                             height: 80,
                             width: 150,
                             ),
@@ -164,7 +164,7 @@ class Addpage extends StatelessWidget {
                               Container(
                           alignment: Alignment.center,
                           child: Image.asset(
-                            'images/mixue.jpeg',
+                            'images/asset2.jpg',
                             height: 80,
                             width: 150,
                             ),
@@ -179,7 +179,7 @@ class Addpage extends StatelessWidget {
                                 mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                                 children: [
                                   Text(
-                                    'mixue',
+                                    'cocacola',
                                     style: TextStyle(
                                       fontSize: 20,
                                       fontWeight: FontWeight.bold
@@ -234,7 +234,7 @@ class Addpage extends StatelessWidget {
                               Container(
                           alignment: Alignment.center,
                           child: Image.asset(
-                            'images/burger.jpeg',
+                            'images/burger2.jpg',
                             height: 80,
                             width: 150,
                             ),

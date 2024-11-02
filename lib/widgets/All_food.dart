@@ -32,7 +32,7 @@ class Allfood extends StatelessWidget{
                     children: [
                       Container(
                         alignment: Alignment.center,
-                        child: Image.asset('images/burger.jpeg'),
+                        child: Image.asset('images/burger2.jpg'),
                         height: 130,
                       ),
                       Text(
@@ -89,7 +89,7 @@ class Allfood extends StatelessWidget{
                     children: [
                       Container(
                         alignment: Alignment.center,
-                        child: Image.asset('images/burger.jpeg'),
+                        child: Image.asset('images/burger2.jpg'),
                         height: 130,
                       ),
                       Text(
@@ -151,7 +151,7 @@ class Allfood extends StatelessWidget{
                     children: [
                       Container(
                         alignment: Alignment.center,
-                        child: Image.asset('images/burger.jpeg'),
+                        child: Image.asset('images/burger2.jpg'),
                         height: 130,
                       ),
                       Text(
@@ -208,11 +208,11 @@ class Allfood extends StatelessWidget{
                     children: [
                       Container(
                         alignment: Alignment.center,
-                        child: Image.asset('images/mixue.jpeg'),
+                        child: Image.asset('images/asset2.jpg'),
                         height: 130,
                       ),
                       Text(
-                        'mixue',
+                        'cocacola',
                         style: TextStyle(
                           fontSize: 20,
                           fontWeight: FontWeight.bold,
@@ -270,7 +270,7 @@ class Allfood extends StatelessWidget{
                     children: [
                       Container(
                         alignment: Alignment.center,
-                        child: Image.asset('images/burger.jpeg'),
+                        child: Image.asset('images/burger2.jpg'),
                         height: 130,
                       ),
                       Text(
@@ -327,11 +327,11 @@ class Allfood extends StatelessWidget{
                     children: [
                       Container(
                         alignment: Alignment.center,
-                        child: Image.asset('images/mixue.jpeg'),
+                        child: Image.asset('images/asset2.jpg'),
                         height: 130,
                       ),
                       Text(
-                        'mixue',
+                        'cocacola',
                         style: TextStyle(
                           fontSize: 20,
                           fontWeight: FontWeight.bold,

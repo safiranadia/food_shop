@@ -31,7 +31,7 @@ child: Padding(
                       ],
                     ),
                     child: Image.asset(
-                      "images/burger.jpeg", 
+                      "images/burger2.jpg", 
                       width: 60,
                       height: 60,
                     ),
@@ -68,7 +68,7 @@ child: Padding(
                       ],
                     ),
                     child: Image.asset(
-                      "images/burger.jpeg", 
+                      "images/burger2.jpg", 
                       width: 60,
                       height: 60,
                     ),
@@ -105,7 +105,7 @@ child: Padding(
                       ],
                     ),
                     child: Image.asset(
-                      "images/mixue.jpeg", 
+                      "images/asset2.jpg", 
                       width: 60,
                       height: 60,
                     ),
